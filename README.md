@@ -1,4 +1,9 @@
-# webfactory-cookie-consent is based on LitElement JavaScript starter 
+# webfactory-cookie-consent
+
+## ⚠️ Nur Spielwiese, wird nicht aktiv verwendet! ⚠️
+**Für DSGVO-Anforderungen wie Cookie Consent verwenden wir das [webfactory Embed Bundle](https://github.com/webfactory/WebfactoryEmbedBundle).**
+
+---
 
 This project includes a sample component using LitElement with JavaScript.
 
